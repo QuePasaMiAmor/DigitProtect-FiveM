@@ -136,7 +136,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ## 🧠 Technical Prerequisites
-Maintaining or extending DigitProtect requires a high-level understanding of the following technologies:
+Maintaining or extending DigitProtect requires a deep understanding of the following technologies:
 *   **Networking**: Deep knowledge of TCP/UDP protocols, reverse proxying, and traffic flow.
 *   **Linux Security**: Proficiency with `iptables` (raw table, chains) and `ipset`.
 *   **Python & Flask**: For modifying or securing the orchestration APIs.
