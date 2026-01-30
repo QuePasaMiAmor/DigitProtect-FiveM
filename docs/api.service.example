@@ -1,0 +1,10 @@
+[Unit]
+Description=API DigitProtect
+
+[Service]
+Type=simple
+Restart=always
+ExecStart=python3 /etc/DigitProtect/api.py
+[Install]
+
+WantedBy=multi-user.target

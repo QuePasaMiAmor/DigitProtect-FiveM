@@ -1,0 +1,7 @@
+set sv_proxyIPRanges "244.244.244.244/32 255.255.255.255/32" #replace by proxies ip ranges (/32 for one ip, /24 for 256 ips, look on google)
+set sv_endpoints "" #not important
+set sv_requestParanoia 3
+set sv_forceIndirectListing true
+sv_listingIPOverride "https://replaceby.domainname.fr:443/"
+sv_listingHostOverride "replaceby.domainname.fr:443"
+sv_endpointprivacy true
